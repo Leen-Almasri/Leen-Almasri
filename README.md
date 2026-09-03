@@ -2,6 +2,8 @@
 
 <br><br>
 
+<h2><b>About Me:</b></h2>
+
 <ul>
   <li>🎓 B.Sc. Artificial Intelligence Graduate</li>
   <li>🤖 Interested in <b>NLP</b> & <b>Agentic AI</b></li>
@@ -11,7 +13,7 @@
 
 <br>
 
-<br> <h2><b>🛠️ Tech Stack:</b></h2>
+<h2><b>🛠️ Tech Stack:</b></h2>
 
 AI:
 
