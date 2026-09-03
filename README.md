@@ -1,7 +1,12 @@
-<div align="center">
+<div align="left">
 
-<h1><b><font color="#45521D">Hi 👋, I'm Leen Almasri</font></b></h1>
-<font color="#6B7D3A" size="4">AI Specialist</font>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=3000&pause=1500&repeat=true&color=39FF14&background=00000000&center=false&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Leen+Almasri" alt="Leen Almasri" />
+<br>
+<font color="#6B7D3A" size="3">AI Specialist</font>
+
+</div>
+
+<div align="center">
 
 <br><br>
 
@@ -41,7 +46,7 @@
 
 <br><br>
 
-<h2><b><font color="#45521D">About Me:</font></b></h2>
+<font size="6"><b><font color="#45521D">About Me:</font></b></font>
 
 <font color="#7C8F52">
 
@@ -57,25 +62,19 @@
 
 <br>
 
-<h2><b><font color="#45521D">Tech Stack:</font></b></h2>
+<font size="6"><b><font color="#45521D">Tech Stack:</font></b></font>
 
 <font color="#45521D"><b>AI:</b></font>
 
-<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF8500?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-06D6A0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-8338EC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B"/> <img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge"/> <img src="https://img.shields.io/badge/Deep%20Learning-FF8500?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP-06D6A0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Agentic%20AI-8338EC?style=for-the-badge"/>
 
 <font color="#45521D"><b>Development & Tools:</b></font>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/APIs-FFB703?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/APIs-FFB703?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 <br>
 
-<h2><b><font color="#45521D">Connect With Me:</font></b></h2>
+<font size="6"><b><font color="#45521D">Connect With Me:</font></b></font>
 
 <a href="https://linkedin.com/in/leen-almasri">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
