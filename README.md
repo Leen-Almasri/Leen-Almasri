@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=3000&pause=1500&repeat=true&color=39FF14&background=00000000&center=false&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Leen+Almasri" alt="Leen Almasri" />
+<font size="7"><b><font color="#45521D">Hi 👋, I'm Leen Almasri</font></b></font>
 <br>
 <font color="#6B7D3A" size="3">AI Specialist</font>
 
