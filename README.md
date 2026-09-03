@@ -2,7 +2,7 @@
 
 <br><br>
 
-<h2><b>👩🏻‍💻 About Me:</b></h2>
+<h2><b>About Me:</b></h2>
 🎓  B.Sc. Artificial Intelligence Graduate
 🤖  Interested in NLP & Agentic AI
 🌱  Currently training at a startup in the AI Agents field while continuously developing my technical skills
