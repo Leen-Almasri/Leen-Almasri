@@ -1,6 +1,6 @@
 <div align="left">
 
-<font size="7"><b><font color="#45521D">Hi 👋, I'm Leen Almasri</font></b></font>
+<font size="7"><b><font color="#45521D"><big>Hi 👋, I'm Leen Almasri</big></font></b></font>
 <br>
 <font color="#6B7D3A" size="3">AI Specialist</font>
 
