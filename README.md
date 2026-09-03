@@ -67,7 +67,7 @@
 
 <font color="#45521D"><b>AI:</b></font>
 
-<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B"/> <img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge"/> <img src="https://img.shields.io/badge/Deep%20Learning-FF8500?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP-06D6A0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Agentic%20AI-8338EC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B"/> <img src="https://img.shields.io/badge/Machine%20Learning-4361EE?style=for-the-badge"/> <img src="https://img.shields.io/badge/Deep%20Learning-FF8500?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP-06D6A0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Agentic%20AI-7209B7?style=for-the-badge"/>
 
 <font color="#45521D"><b>Development & Tools:</b></font>
 
