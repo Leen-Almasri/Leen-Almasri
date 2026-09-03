@@ -5,7 +5,9 @@ Hi 👋, I'm Leen Almasri, an AI Specialist.
 <br><br>
 
 👩🏻‍💻 About Me
+
 🎓  B.Sc. Artificial Intelligence Graduate
+
 🤖  Interested in NLP & Agentic AI
 🌱  Currently training at a startup in the AI Agents field while continuously developing my technical skills
 🚀  Aspiring to build innovative AI solutions that solve real-world problems
