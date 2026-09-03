@@ -2,11 +2,15 @@
 
 <br><br>
 
-<h2><b>About Me:</b></h2>
-🎓  B.Sc. Artificial Intelligence Graduate
-🤖  Interested in NLP & Agentic AI
-🌱  Currently training at a startup in the AI Agents field while continuously developing my technical skills
-🚀  Aspiring to build innovative AI solutions that solve real-world problems
+<ul>
+  <li>🎓 B.Sc. Artificial Intelligence Graduate</li>
+  <li>🤖 Interested in <b>NLP</b> & <b>Agentic AI</b></li>
+  <li>🌱 Currently training at a startup in the <b>AI Agents</b> field while continuously developing my technical skills</li>
+  <li>🚀 Aspiring to build <b>innovative AI solutions</b> that solve real-world problems</li>
+</ul>
+
+<br>
+
 <br> <h2><b>🛠️ Tech Stack:</b></h2>
 
 AI:
