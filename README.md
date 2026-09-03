@@ -22,7 +22,7 @@
 </tr>
 <tr>
 <td bgcolor="#252526" style="padding:6px 14px; border-bottom:1px solid #1e1e1e;">
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="14" height="14" style="vertical-align:middle;"/>&nbsp;
+<img src="https://img.shields.io/badge/%20-252526?style=flat&logo=visualstudiocode&logoColor=007ACC" height="20"/>&nbsp;
 <code><font color="#9CDCFE">motivation.py</font></code>
 </td>
 </tr>
