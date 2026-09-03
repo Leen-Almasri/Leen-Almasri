@@ -14,26 +14,26 @@
 <tr>
 <td>
 
-<table width="100%" cellspacing="0" cellpadding="0" bgcolor="#1e1e1e">
+<table width="100%" cellspacing="0" cellpadding="0" bgcolor="#1F2A17">
 <tr>
-<td bgcolor="#323233" style="padding:10px 14px;">
+<td bgcolor="#2C3B1E" style="padding:10px 14px;">
 🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢
 </td>
 </tr>
 <tr>
-<td bgcolor="#252526" style="padding:6px 14px; border-bottom:1px solid #1e1e1e;">
-<img src="https://img.shields.io/badge/%20-252526?style=flat&logo=visualstudiocode&logoColor=007ACC" height="20"/>&nbsp;
+<td bgcolor="#26331A" style="padding:6px 14px; border-bottom:1px solid #1F2A17;">
+<img src="https://img.shields.io/badge/%20-26331A?style=flat&logo=visualstudiocode&logoColor=007ACC" height="20"/>&nbsp;
 <code><font color="#9CDCFE">motivation.py</font></code>
 </td>
 </tr>
 <tr>
-<td bgcolor="#1e1e1e" style="padding:18px 20px;">
+<td bgcolor="#1F2A17" style="padding:18px 20px;">
 
 <div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=6000&pause=2000&repeat=true&color=CE9178&background=1E1E1E00&center=false&vCenter=true&width=900&height=30&lines=%22Since+you+have+a+dream%2C+dream+big+and+start+building+it+one+small+step+at+a+time.%22" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=6000&pause=2000&repeat=true&color=CE9178&background=1F2A1700&center=false&vCenter=true&width=900&height=30&lines=%22Since+you+have+a+dream%2C+dream+big+and+start+building+it+one+small+step+at+a+time.%22" alt="typing animation" />
 </div>
 
-<pre><font color="#569CD6">export</font> dream;</pre>
+<font face="Courier New, monospace"><font color="#569CD6">export</font><font color="#D4D4D4"> dream;</font></font>
 
 </td>
 </tr>
