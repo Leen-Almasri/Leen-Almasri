@@ -13,7 +13,6 @@ Hi 👋, I'm Leen Almasri, an AI Specialist.
 🚀  Aspiring to build innovative AI solutions that solve real-world problems
 <br>
 🛠️ Tech Stack
-
 AI
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Machine%20Learning-2C5364?style=for-the-badge"/> <img src="https://img.shields.io/badge/Deep%20Learning-16222A?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP-00C9A7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Agentic%20AI-0F2027?style=for-the-badge"/>
