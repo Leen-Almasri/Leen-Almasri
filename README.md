@@ -32,7 +32,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=6000&pause=2000&repeat=true&color=CE9178&background=1F2A1700&center=false&vCenter=true&width=900&height=30&lines=%22Since+you+have+a+dream%2C+dream+big+and+start+building+it+one+small+step+at+a+time.%22" alt="typing animation" />
 </div>
 
-<font face="Courier New, monospace"><font color="#CE9178">export dream;</font></font>
+<font color="#CE9178" face="Courier New, monospace">export dream;</font>
 
 </td>
 </tr>
