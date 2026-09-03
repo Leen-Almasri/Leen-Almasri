@@ -22,7 +22,7 @@
 </tr>
 <tr>
 <td bgcolor="#26331A" style="padding:6px 14px; border-bottom:1px solid #1F2A17;">
-<font face="Courier New, monospace" color="#9CDCFE">🐍 motivation.py</font>
+<font face="Courier New, monospace" color="#9CDCFE">motivation.py</font>
 </td>
 </tr>
 <tr>
